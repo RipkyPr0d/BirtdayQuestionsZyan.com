@@ -1,7 +1,7 @@
 const Config = {
   web3forms: {
     endpoint: "https://api.web3forms.com/submit",
-    accessKey: "cef1eb13-b89e-4a03-9b08-96247743de24",
+    accessKey: "35625ee5-7bc7-4e9f-849f-c20cccdb37b1",
     subject: "jawaban birthday questions dari zyan 💙",
     fromName: "birthday questions"
   },
